@@ -1,2 +1,0 @@
-DeBug = False
-Exit = False
